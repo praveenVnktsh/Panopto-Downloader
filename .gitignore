@@ -1,0 +1,6 @@
+env
+out
+__pycache__
+downloads/
+
+cookies.pkl
